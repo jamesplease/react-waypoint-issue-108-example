@@ -1,4 +1,4 @@
-# react-waypoint-issue-8-example
+# react-waypoint-issue-108-example
 
 This demonstrates [Issue #108](https://github.com/brigade/react-waypoint/issues/108) in React-Waypoint.
 
