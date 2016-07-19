@@ -1,0 +1,19 @@
+.app {
+  height: 10000px;
+}
+
+.list-item {
+  height: 800px;
+  line-height: 800px;
+}
+
+.eighty-percent {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 20vh;
+  pointer-events: none;
+  background-color: rgba(230, 230, 230, 0.5);
+  z-index: 1;
+}
